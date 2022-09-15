@@ -1,24 +1,37 @@
-body {
+body,
+.index {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+h1,
+.index {
     font-weight: lighter;
     font-size: 64px;
     padding: 50px
-    
 }
 
+body,
+.page {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
 .link {
-    font-size: larger;
+    font-size: 24px;
 }
 
 #mushroom {
+    padding: 25px;
     height: auto;
     width: 200px;
-    padding: 75px;
+    opacity: .8;   
+}
+
+#bokchoy {
+    height: auto;
+    width: 200px;
     opacity: .8;
-    
-    
+
 }
