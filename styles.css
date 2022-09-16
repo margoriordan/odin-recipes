@@ -33,5 +33,17 @@ body,
     height: auto;
     width: 200px;
     opacity: .8;
+}
 
+#shrimp {
+    padding: 35px;
+    height: auto;
+    width: 175px;
+    opacity: .8;
+}
+
+#mushroom2 {
+    height: auto;
+    width: 200px;
+    opacity: .8;
 }
